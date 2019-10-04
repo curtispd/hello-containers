@@ -9,7 +9,7 @@ spec:
       default: hello
     - name: repository
       description: The git repo
-      default: "https://github.com/skaegi/hello-containers"
+      default: "https://github.com/curtispd/hello-containers"
     - name: apikey
       description: the ibmcloud api key
     - name: registryNamespace
